@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto&family=Ubuntu:wght@300;700&display=swap" rel="stylesheet">
 
 
-    <link rel="stylesheet" href="styles/main.css".css">
+    <link rel="stylesheet" href="styles/main.css">
 
 </head>
 <body>
