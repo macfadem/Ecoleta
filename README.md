@@ -7,4 +7,4 @@
   HTML, CSS, JavaScript, Node JS and SQL
 </h4>
 
-<p>Projeto realizado entre 01/06 e 07/06 em 2020 pela RocketSeat</p>
+<p>Projeto realizado entre 01/06 e 07/06 em 2020 com a RocketSeat</p>
