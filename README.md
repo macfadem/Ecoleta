@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://lander.rocketseat.dev/uploads/nextlevelweek_18baaf82af.svg" width="400px" alt="Logo NLW#1" />
+    <img src="https://lander.rocketseat.dev/uploads/nextlevelweek_18baaf82af.svg" width="200px" alt="Logo NLW#1" />
 </h1>
 
 <h1 align="center">
@@ -11,6 +11,7 @@
 
 <h1>
     <img src="https://i.imgur.com/lsmoEYP.png" height="400px">
+    <br>
     
 </h1>
 
