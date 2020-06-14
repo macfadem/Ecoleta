@@ -22,7 +22,7 @@
 **Ecoleta** foi um projeto criado na **Next Week Level** que permite usuários cadastrarem e prucurarem pontos de coleta seletiva no Brasil.
 
 
-## Features
+## Ferramentas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -32,7 +32,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - **Node.js**
 - **SQLite**
 
-## Getting Started
+## Para iniciar
 
 ```bash
 
