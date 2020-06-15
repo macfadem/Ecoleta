@@ -9,7 +9,7 @@
 </h1>
 
 
-<h1>
+<h1 align="center" >
     <img src="https://i.imgur.com/lsmoEYP.png" height="400px">
     <br>
     
