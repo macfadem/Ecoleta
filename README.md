@@ -1,6 +1,3 @@
-<h1 align="center">
-    <img src="https://lander.rocketseat.dev/uploads/nextlevelweek_18baaf82af.svg" width="200px" alt="Logo NLW#1" />
-</h1>
 
 <h1 align="center">
     <br>
